@@ -104,8 +104,8 @@ function toggleMenu(nav1, nav1Sections, forceExpanded = null) {
 }
 
 /**
- * loads and decorates the header, mainly the nav1
- * @param {Element} block The header block element
+ * loads and decorates the header1, mainly the nav1
+ * @param {Element} block The header1 block element
  */
 export default async function decorate(block) {
   // load nav1 as fragment
